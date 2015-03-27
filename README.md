@@ -10,14 +10,14 @@ A fun game
 
 ## Maria
 
-1.
-2.
+1. Red
+2. Yellow
 3. Gold
 4.
 
 ## Leah
 
-1.
+1. Lala
 2. Orange
 3.
 4.
